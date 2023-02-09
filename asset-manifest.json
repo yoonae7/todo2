@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todo/static/css/main.a55556eb.css",
+    "main.js": "/todo/static/js/main.65526631.js",
+    "static/media/Schumann.png": "/todo/static/media/Schumann.85546c1b7cc2c227e224.png",
+    "static/media/Bach.png": "/todo/static/media/Bach.ff14abacbe5c416e7230.png",
+    "index.html": "/todo/index.html",
+    "main.a55556eb.css.map": "/todo/static/css/main.a55556eb.css.map",
+    "main.65526631.js.map": "/todo/static/js/main.65526631.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a55556eb.css",
+    "static/js/main.65526631.js"
+  ]
+}
